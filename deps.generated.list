@@ -1,0 +1,16 @@
+net.textseek.off
+libqtgui4
+libbrotli1
+libaudio2
+libxt6
+libmng1
+libqtcore4
+qtcore4-l10n
+libpython2.7
+libpython2.7-stdlib
+libpython2.7-minimal
+libreadline7
+readline-common
+libicu70
+util-linux-extra
+ca-certificates-uniontech
